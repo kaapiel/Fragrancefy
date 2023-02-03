@@ -1,0 +1,227 @@
+{
+  "header": "Accords",
+  "accords": [
+    {
+      "name": "citrus"
+    },
+    {
+      "name": "fresh spicy"
+    },
+    {
+      "name": "vanilla"
+    },
+    {
+      "name": "balsamic"
+    },
+    {
+      "name": "smoky"
+    },
+    {
+      "name": "green"
+    },
+    {
+      "name": "woody"
+    },
+    {
+      "name": "aromatic"
+    },
+    {
+      "name": "musky"
+    },
+    {
+      "name": "powdery"
+    },
+    {
+      "name": "rose"
+    },
+    {
+      "name": "fruity"
+    },
+    {
+      "name": "amber"
+    },
+    {
+      "name": "powder"
+    },
+    {
+      "name": "aquatic"
+    },
+    {
+      "name": "musk"
+    },
+    {
+      "name": "floral"
+    },
+    {
+      "name": "ozonic"
+    },
+    {
+      "name": "white floral"
+    },
+    {
+      "name": "gourmand"
+    },
+    {
+      "name": "fresh"
+    },
+    {
+      "name": "earthy"
+    },
+    {
+      "name": "herbal"
+    },
+    {
+      "name": "sweet"
+    },
+    {
+      "name": "yellow floral"
+    },
+    {
+      "name": "oud"
+    },
+    {
+      "name": "warm spicy"
+    },
+    {
+      "name": "animalic"
+    },
+    {
+      "name": "aldehydic"
+    },
+    {
+      "name": "coffee"
+    },
+    {
+      "name": "patchouli"
+    },
+    {
+      "name": "leather"
+    },
+    {
+      "name": "caramel"
+    },
+    {
+      "name": "honey"
+    },
+    {
+      "name": "tobacco"
+    },
+    {
+      "name": "cacao"
+    },
+    {
+      "name": "tuberose"
+    },
+    {
+      "name": "spicy"
+    },
+    {
+      "name": "soft spicy"
+    },
+    {
+      "name": "coconut"
+    },
+    {
+      "name": "tonka (coumarin)"
+    },
+    {
+      "name": "vetiver"
+    },
+    {
+      "name": "patchouly"
+    },
+    {
+      "name": "cinnamon"
+    },
+    {
+      "name": "narcotic"
+    },
+    {
+      "name": "almond"
+    },
+    {
+      "name": "soapy"
+    },
+    {
+      "name": "beeswax"
+    },
+    {
+      "name": "marine"
+    },
+    {
+      "name": "rum"
+    },
+    {
+      "name": "asphault"
+    },
+    {
+      "name": "tropical"
+    },
+    {
+      "name": "sour"
+    },
+    {
+      "name": "nutty"
+    },
+    {
+      "name": "whiskey"
+    },
+    {
+      "name": "coca-cola"
+    },
+    {
+      "name": "cherry"
+    },
+    {
+      "name": "salty"
+    },
+    {
+      "name": "milky"
+    },
+    {
+      "name": "bitter"
+    },
+    {
+      "name": "camphor"
+    },
+    {
+      "name": "terpenic"
+    },
+    {
+      "name": "conifer"
+    },
+    {
+      "name": "savory"
+    },
+    {
+      "name": "sand"
+    },
+    {
+      "name": "metallic"
+    },
+    {
+      "name": "wine"
+    },
+    {
+      "name": "caramela"
+    },
+    {
+      "name": "clay"
+    },
+    {
+      "name": "lactonic"
+    },
+    {
+      "name": "violet"
+    },
+    {
+      "name": "watery"
+    },
+    {
+      "name": "alcohol"
+    },
+    {
+      "name": "cognac"
+    }
+  ]
+}
