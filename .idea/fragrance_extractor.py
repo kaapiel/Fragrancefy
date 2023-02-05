@@ -7,7 +7,7 @@ header = {
     "header": "Essential Oil Combinations"
 }
 
-combinations = []
+fragrances = []
 for i in range(0, 497):
     params = {
         "term": "",
@@ -15,7 +15,7 @@ for i in range(0, 497):
     }
     response = requests.get(url, params=params).json()
     for fragrance in response["data"]:
-        combination = {
+        fragrance_obj = {
             "name": fragrance["name"],
             "male": fragrance["male"],
             "female": fragrance["female"],
@@ -28,12 +28,12 @@ for i in range(0, 497):
                 "weight": accord["weight"],
                 "oils": []
             }
-            combination["accords"].append(accord_obj)
-        combinations.append(combination)
+            fragrance_obj["accords"].append(accord_obj)
+        fragrances.append(fragrance_obj)
 
-header["combinations"] = combinations
+header["fragrances"] = fragrances
 
 print(json.dumps(header, indent=2))
 
-with open("./fragrancies.json", "w") as outfile:
+with open("./fragrances.json", "w") as outfile:
     outfile.write(json.dumps(header, indent=2))
